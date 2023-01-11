@@ -54,7 +54,7 @@ header img
 main
 {
     width: 900px;
-    margin: 0 auto;
+    margin: 150px auto 100px auto;
 }
 
 main h1
@@ -62,7 +62,6 @@ main h1
     font-size: 36px;
     font-weight: 900;
     text-align: center;
-    margin-top: 150px;
 }
 
 footer
